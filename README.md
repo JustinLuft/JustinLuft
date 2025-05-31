@@ -38,3 +38,28 @@ I love designing smart backend logic and well-structured databases to create rel
 </p>
 
 ---
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .neon-text {
+      font-family: 'Futura', sans-serif;
+      font-weight: 900;
+      font-size: 72px;
+      fill: #0ff;
+      filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);
+      opacity: 0.2;
+      transition: opacity 0.5s ease-in-out;
+    }
+    .highlight {
+      opacity: 1;
+      filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff);
+    }
+  </style>
+
+  <text x="20" y="75" class="neon-text" id="J">J</text>
+  <text x="70" y="75" class="neon-text" id="U">U</text>
+  <text x="130" y="75" class="neon-text" id="S">S</text>
+  <text x="190" y="75" class="neon-text" id="T">T</text>
+  <text x="250" y="75" class="neon-text" id="I">I</text>
+  <text x="280" y="75" class="neon-text" id="N">N</text>
+</svg>
+
