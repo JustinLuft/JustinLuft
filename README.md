@@ -1,7 +1,6 @@
-
 <h1 align="center" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 3em;">Hey, I'm Justin Luft 👋</h1>
 
-<p align="center">I'm a Computer Sciencetist based in Charleston, South Carolina.<br>
+<p align="center">I'm a Computer Scientist based in Charleston, South Carolina.<br>
 I love designing smart backend logic and well-structured databases to create reliable and scalable applications.</p>
 
 ---
@@ -34,8 +33,8 @@ I love designing smart backend logic and well-structured databases to create rel
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolioweb-k020.onrender.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website" />
-</a>
+    <img src="https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website" />
+  </a>
 </p>
 
 ---
@@ -43,3 +42,21 @@ I love designing smart backend logic and well-structured databases to create rel
 <p align="center">
   <img src="https://raw.githubusercontent.com/JustinLuft/JustinLuft/output/snake.svg" alt="Snake animation" />
 </p>
+
+<div align="center" style="margin-top: 30px;">
+  <svg width="300" height="100" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 48px;">
+    <text x="10" y="60" fill="#6CCFF6" opacity="0" >
+      <tspan id="J" style="animation: fadeIn 1s forwards 0s;">J</tspan>
+      <tspan id="u" style="animation: fadeIn 1s forwards 0.5s;">u</tspan>
+      <tspan id="s" style="animation: fadeIn 1s forwards 1s;">s</tspan>
+      <tspan id="t" style="animation: fadeIn 1s forwards 1.5s;">t</tspan>
+      <tspan id="i" style="animation: fadeIn 1s forwards 2s;">i</tspan>
+      <tspan id="n" style="animation: fadeIn 1s forwards 2.5s;">n</tspan>
+    </text>
+    <style>
+      @keyframes fadeIn {
+        to { opacity: 1; }
+      }
+    </style>
+  </svg>
+</div>
