@@ -1,34 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Neon Sign Animation</title>
+<style>
+  .neon-text {
+    font-family: 'Futura', sans-serif;
+    font-weight: 900;
+    font-size: 72px;
+    fill: #0ff;
+    filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);
+    opacity: 0.2;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .highlight {
+    opacity: 1;
+    filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff);
+  }
+</style>
+</head>
+<body>
 <svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .neon-text {
-      font-family: 'Futura', sans-serif;
-      font-weight: 900;
-      font-size: 72px;
-      fill: #0ff;
-      filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);
-      opacity: 0.2;
-      transition: opacity 0.5s ease-in-out;
-    }
-    .highlight {
-      opacity: 1;
-      filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff);
-    }
-  </style>
-
   <text x="20" y="75" class="neon-text" id="J">J</text>
   <text x="70" y="75" class="neon-text" id="U">U</text>
   <text x="130" y="75" class="neon-text" id="S">S</text>
   <text x="190" y="75" class="neon-text" id="T">T</text>
   <text x="250" y="75" class="neon-text" id="I">I</text>
   <text x="280" y="75" class="neon-text" id="N">N</text>
-
-  <script type="application/ecmascript"><![CDATA[
-    const letters = ['J', 'U', 'S', 'T', 'I', 'N'];
-    let current = 0;
-    setInterval(() => {
-      letters.forEach(l => document.getElementById(l).classList.remove('highlight'));
-      document.getElementById(letters[current]).classList.add('highlight');
-      current = (current + 1) % letters.length;
-    }, 700);
-  ]]></script>
 </svg>
+
+<script>
+  const letters = ['J', 'U', 'S', 'T', 'I', 'N'];
+  let current = 0;
+  setInterval(() => {
+    letters.forEach(l => document.getElementById(l).classList.remove('highlight'));
+    document.getElementById(letters[current]).classList.add('highlight');
+    current = (current + 1) % letters.length;
+  }, 700);
+</script>
+</body>
+</html>
