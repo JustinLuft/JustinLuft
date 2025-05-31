@@ -33,9 +33,9 @@ I love designing smart backend logic and well-structured databases to create rel
   <a href="https://www.linkedin.com/in/justin-luft-ab2aa9224/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:j.n.luft@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://portfolioweb-k020.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Contact%20Page-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Contact Page" />
+</a>
 </p>
 
 ---
