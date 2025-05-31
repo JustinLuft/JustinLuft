@@ -1,42 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>Neon Sign Animation</title>
-<style>
-  .neon-text {
-    font-family: 'Futura', sans-serif;
-    font-weight: 900;
-    font-size: 72px;
-    fill: #0ff;
-    filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);
-    opacity: 0.2;
-    transition: opacity 0.5s ease-in-out;
-  }
-  .highlight {
-    opacity: 1;
-    filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff);
-  }
-</style>
-</head>
-<body>
 <svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="20" y="75" class="neon-text" id="J">J</text>
-  <text x="70" y="75" class="neon-text" id="U">U</text>
-  <text x="130" y="75" class="neon-text" id="S">S</text>
-  <text x="190" y="75" class="neon-text" id="T">T</text>
-  <text x="250" y="75" class="neon-text" id="I">I</text>
-  <text x="280" y="75" class="neon-text" id="N">N</text>
-</svg>
+  <style>
+    .neon-text {
+      font-family: 'Futura', sans-serif;
+      font-weight: 900;
+      font-size: 72px;
+      fill: #0ff;
+      filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);
+      opacity: 0.2;
+      animation-timing-function: ease-in-out;
+    }
+    /* Animate opacity cycling on letters with delay */
+    .neon-text:nth-child(1) {
+      animation: highlight 4.2s infinite;
+      animation-delay: 0s;
+    }
+    .neon-text:nth-child(2) {
+      animation: highlight 4.2s infinite;
+      animation-delay: 0.7s;
+    }
+    .neon-text:nth-child(3) {
+      animation: highlight 4.2s infinite;
+      animation-delay: 1.4s;
+    }
+    .neon-text:nth-child(4) {
+      animation: highlight 4.2s infinite;
+      animation-delay: 2.1s;
+    }
+    .neon-text:nth-child(5) {
+      animation: highlight 4.2s infinite;
+      animation-delay: 2.8s;
+    }
+    .neon-text:nth-child(6) {
+      animation: highlight 4.2s infinite;
+      animation-delay: 3.5s;
+    }
 
-<script>
-  const letters = ['J', 'U', 'S', 'T', 'I', 'N'];
-  let current = 0;
-  setInterval(() => {
-    letters.forEach(l => document.getElementById(l).classList.remove('highlight'));
-    document.getElementById(letters[current]).classList.add('highlight');
-    current = (current + 1) % letters.length;
-  }, 700);
-</script>
-</body>
-</html>
+    @keyframes highlight {
+      0%, 85%, 100% { opacity: 0.2; filter: drop-shadow(0 0 5px #0ff) drop-shadow(0 0 10px #0ff);}
+      15%, 75% { opacity: 1; filter: drop-shadow(0 0 10px #0ff) drop-shadow(0 0 20px #0ff);}
+    }
+  </style>
+
+  <text x="20" y="75" class="neon-text">J</text>
+  <text x="70" y="75" class="neon-text">U</text>
+  <text x="130" y="75" class="neon-text">S</text>
+  <text x="190" y="75" class="neon-text">T</text>
+  <text x="250" y="75" class="neon-text">I</text>
+  <text x="280" y="75" class="neon-text">N</text>
+</svg>
