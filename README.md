@@ -38,25 +38,3 @@ I love designing smart backend logic and well-structured databases to create rel
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JustinLuft/JustinLuft/output/snake.svg" alt="Snake animation" />
-</p>
-
-<div align="center" style="margin-top: 30px;">
-  <svg width="300" height="100" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 48px;">
-    <text x="10" y="60" fill="#6CCFF6" opacity="0" >
-      <tspan id="J" style="animation: fadeIn 1s forwards 0s;">J</tspan>
-      <tspan id="u" style="animation: fadeIn 1s forwards 0.5s;">u</tspan>
-      <tspan id="s" style="animation: fadeIn 1s forwards 1s;">s</tspan>
-      <tspan id="t" style="animation: fadeIn 1s forwards 1.5s;">t</tspan>
-      <tspan id="i" style="animation: fadeIn 1s forwards 2s;">i</tspan>
-      <tspan id="n" style="animation: fadeIn 1s forwards 2.5s;">n</tspan>
-    </text>
-    <style>
-      @keyframes fadeIn {
-        to { opacity: 1; }
-      }
-    </style>
-  </svg>
-</div>
