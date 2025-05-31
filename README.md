@@ -34,7 +34,7 @@ I love designing smart backend logic and well-structured databases to create rel
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolioweb-k020.onrender.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Contact%20Page-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website" />
+  <img src="https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website" />
 </a>
 </p>
 
