@@ -15,12 +15,12 @@
     }
   </style>
 
-  <text x="10" y="75" class="neon-text" id="J">J</text>
+  <text x="20" y="75" class="neon-text" id="J">J</text>
   <text x="70" y="75" class="neon-text" id="U">U</text>
   <text x="130" y="75" class="neon-text" id="S">S</text>
   <text x="190" y="75" class="neon-text" id="T">T</text>
   <text x="250" y="75" class="neon-text" id="I">I</text>
-  <text x="310" y="75" class="neon-text" id="N">N</text>
+  <text x="280" y="75" class="neon-text" id="N">N</text>
 
   <script type="application/ecmascript"><![CDATA[
     const letters = ['J', 'U', 'S', 'T', 'I', 'N'];
