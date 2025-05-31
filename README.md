@@ -38,4 +38,6 @@ I love designing smart backend logic and well-structured databases to create rel
 </p>
 
 ---
+![Neon sign animation](./justin-neon.gif)
+
 
