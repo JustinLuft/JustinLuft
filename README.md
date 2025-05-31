@@ -1,8 +1,8 @@
 
 <h1 align="center" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 3em;">Hey, I'm Justin Luft 👋</h1>
 
-<p align="center">I'm a Computer Science student based in Charleston, South Carolina.<br>
-I love building smart, clean, and creative digital experiences — from backend logic to sleek UI.</p>
+<p align="center">I'm a Computer Sciencetist based in Charleston, South Carolina.<br>
+I love designing smart backend logic and well-structured databases to create reliable and scalable applications.</p>
 
 ---
 
