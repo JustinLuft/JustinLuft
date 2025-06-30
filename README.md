@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 3em;">Hey, I'm Justin Luft 👋</h1>
 
 <p align="center">I'm a Computer Scientist based in Charleston, South Carolina.<br>
-I love designing smart backend/frontend logic and well-structured databases to create reliable and scalable applications.</p>
+I design smart backend/frontend logic and well-structured databases and other programs that catch my interest.</p>
 
 ---
 
