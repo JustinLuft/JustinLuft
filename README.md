@@ -31,7 +31,7 @@ I design backend/frontend programs, databases, and other programs that catch my 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/justin-luft-ab2aa9224/" target="_blank">
+  <a href="http://www.linkedin.com/in/justinnl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolioweb-k020.onrender.com/" target="_blank" rel="noopener noreferrer">
