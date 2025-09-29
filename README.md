@@ -5,10 +5,7 @@ I design backend/frontend programs, databases, and other programs that catch my 
 
 ---
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinLuft&show_icons=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
-  
+<p align="center">  
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinLuft&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </p>
