@@ -6,8 +6,19 @@ I design backend/frontend programs, databases, and other programs that catch my 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustinLuft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JustinLuft&show_icons=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinLuft&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=JustinLuft&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
+  
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=JustinLuft&theme=dracula&margin-w=10&margin-h=10" height="160" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -16,14 +27,13 @@ I design backend/frontend programs, databases, and other programs that catch my 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </div>
 
 ---
@@ -40,5 +50,3 @@ I design backend/frontend programs, databases, and other programs that catch my 
 </p>
 
 ---
-
-
