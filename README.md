@@ -7,7 +7,7 @@ I design backend/frontend programs, databases, and other programs that catch my 
 
 <p align="center">  
   <!-- Top Languages (wider) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinLuft&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="700" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinLuft&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="1000" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
