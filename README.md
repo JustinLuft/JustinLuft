@@ -16,9 +16,6 @@ I design backend/frontend programs, databases, and other programs that catch my 
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=JustinLuft&theme=dracula&hide_border=true" height="160" alt="GitHub Streak" />
-  
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=JustinLuft&theme=dracula&margin-w=10&margin-h=10" height="160" alt="GitHub Trophies" />
 </p>
 
 ---
