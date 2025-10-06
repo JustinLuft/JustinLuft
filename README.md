@@ -7,7 +7,7 @@ I design backend/frontend programs, databases, and other programs that catch my 
 
 <p align="center">
   <!-- GitHub Streak (wider) -->
-  <img src="https://streak-stats.demolab.com?user=JustinLuft&theme=dracula&hide_border=true" width="700" height="160" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=JustinLuft&theme=dracula&hide_border=true" width="700" height="160" alt="GitHub Streak" /> -->
 </p>
 
 <p align="center">  
