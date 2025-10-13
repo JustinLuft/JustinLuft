@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 3em;">
   <img src="https://custom-readme-visuals.vercel.app/api/header" alt="Header Visual" />
 </h1>
-
+---
 <p align="center">
 I'm a Computer Scientist based in Charleston, South Carolina.<br>
 I design backend/frontend programs, databases, and other programs that catch my interest.
