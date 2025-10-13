@@ -1,18 +1,17 @@
-<h1 align="center" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 3em;">Hey, I'm Justin Luft 👋</h1>
+<h1 align="center" style="font-family: 'Futura', sans-serif; font-weight: 900; font-size: 3em;">
+  <img src="https://custom-readme-visuals.vercel.app/api/header" alt="Header Visual" />
+</h1>
 
-<p align="center">I'm a Computer Scientist based in Charleston, South Carolina.<br>
-I design backend/frontend programs, databases, and other programs that catch my interest.</p>
+<p align="center">
+I'm a Computer Scientist based in Charleston, South Carolina.<br>
+I design backend/frontend programs, databases, and other programs that catch my interest.
+</p>
 
 ---
 
-<p align="center">
-  <!-- GitHub Streak (wider) -->
-  <!-- <img src="https://streak-stats.demolab.com?user=JustinLuft&theme=dracula&hide_border=true" width="700" height="160" alt="GitHub Streak" /> -->
-</p>
-
 <p align="center">  
-  <!-- Top Languages (wider) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinLuft&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="1000" height="160" alt="Top Languages" />
+  <!-- Languages Visual -->
+  <img src="https://custom-readme-visuals.vercel.app/api/languages" width="1000" height="160" alt="Languages Visual" />
 </p>
 
 ---
@@ -31,7 +30,6 @@ I design backend/frontend programs, databases, and other programs that catch my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </div>
-
 
 ---
 
