@@ -13,7 +13,7 @@
 
 <p align="center">  
   <!-- Languages Visual -->
-  <img src="https://custom-readme-visuals.vercel.app/api/languages" width="1000" height="760" alt="Languages Visual" />
+  <img src="https://custom-readme-visuals.vercel.app/api/languages" width="1000" height="560" alt="Languages Visual" />
 </p>
 
 ---
