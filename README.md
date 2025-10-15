@@ -55,10 +55,10 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/justinnl" target="_blank">
-        <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="100" height="50" alt="LinkedIn Visual" />
+        <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="70" alt="LinkedIn Visual" />
   </a>
   <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://custom-readme-visuals.vercel.app/api/personalwebsite" width="140" height="200" alt="Personal Website Visual" />
+    <img src="https://custom-readme-visuals.vercel.app/api/personalwebsite" width="160" height="220" alt="Personal Website Visual" />
   </a>
 </p>
 
