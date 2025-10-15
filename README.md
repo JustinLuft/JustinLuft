@@ -59,7 +59,7 @@
   </a>
   <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website" />
-    <img src="https://custom-readme-visuals.vercel.app/api/linkedin" alt="LinkedIn Visual" />
+    <img src="https://custom-readme-visuals.vercel.app/api/connect" alt="LinkedIn Visual" />
 
   </a>
 </p>
