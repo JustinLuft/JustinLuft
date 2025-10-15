@@ -18,7 +18,7 @@
 
 <p align="center">  
   <!-- Languages Visual -->
-  <img src="https://custom-readme-visuals.vercel.app/api/languages" width="900" height="360" alt="Languages Visual" />
+  <img src="https://custom-readme-visuals.vercel.app/api/languages" width="920" height="360" alt="Languages Visual" />
 </p>
 
 <p align="center">
