@@ -59,9 +59,6 @@
   </a>
   <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://custom-readme-visuals.vercel.app/api/personalwebsite" width="100" height="50" alt="Personal Website Visual" />
-    <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="100" height="50" alt="LinkedIn Visual" />
-    <img src="https://custom-readme-visuals.vercel.app/api/connect" width="100" height="50" alt="LinkedIn Visual" />
-
   </a>
 </p>
 
