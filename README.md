@@ -7,14 +7,18 @@
   I design backend/frontend programs, databases, and other programs that catch my interest.
 </p>
 
----
+<p align="center">
+  <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
+</p>
 
 <p align="center">  
   <!-- Languages Visual -->
   <img src="https://custom-readme-visuals.vercel.app/api/languages" width="900" height="330" alt="Languages Visual" />
 </p>
 
----
+<p align="center">
+  <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
+</p>
 
 ### 🧰 Technologies I Use
 
@@ -43,13 +47,12 @@
 #### 🚀 Build & Deployment
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </div>
 
-
----
+<p align="center">
+  <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
+</p>
 
 ### 🌐 Let's Connect
 
@@ -62,4 +65,6 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
+</p>
