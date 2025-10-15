@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/justinnl" target="_blank">
-        <img src="https://custom-readme-visuals.vercel.app/api/connect" width="100" height="50" alt="LinkedIn Visual" />
+        <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="100" height="50" alt="LinkedIn Visual" />
   </a>
   <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website" />
