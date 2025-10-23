@@ -63,7 +63,7 @@
 <p align="center">
   <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
 </p>
-### 🌐 Let's Connect
+🌐 Let's Connect
 
 <p align="center">
   <a href="http://www.linkedin.com/in/justinnl" target="_blank">
