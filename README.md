@@ -66,7 +66,8 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/justinnl" target="_blank">
         <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="70" alt="LinkedIn Visual" />
-  <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
     <img src="https://custom-readme-visuals.vercel.app/api/personalwebsite2.js" width="167" height="225" alt="Personal Website Visual" />
   </a>
 </p>
