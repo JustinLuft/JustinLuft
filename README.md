@@ -74,7 +74,7 @@
     <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="70" alt="LinkedIn Visual" />
   </a>
   <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
-    <img src="https://custom-readme-visuals.vercel.app/api/personalwebsite" width="120" height="70" alt="Personal Website Visual" />
+    <img src="https://custom-readme-visuals.vercel.app/public/personalwebsite.gif" width="120" height="70" alt="Personal Website Visual" />
   </a>
 </p>
 
