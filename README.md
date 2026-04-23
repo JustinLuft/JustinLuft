@@ -15,8 +15,7 @@
   <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
 </p>
 
-<p align="center">  
-  <!-- Languages Visual -->
+<p align="center">
   <img src="https://custom-readme-visuals.vercel.app/api/languages" width="920" height="360" alt="Languages Visual" />
 </p>
 
@@ -24,39 +23,45 @@
   <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
 </p>
 
-### 🧰 Technologies I Use
+<h3 align="center" style="font-family: 'Futura', sans-serif; font-weight: 800; font-size: 1.8em;">
+  🧰 Technologies I Use
+</h3>
 
-#### 🎨 Frontend
+<h4 align="center">🎨 Frontend</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
 </div>
 
-#### ⚙️ Backend
+<h4 align="center">⚙️ Backend</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
 </div>
 
-#### 🗄️ Databases
+<h4 align="center">🗄️ Databases</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
 </div>
 
-#### 🚀 Build & Deployment
+<h4 align="center">🚀 Build & Deployment</h4>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
 </div>
+
+<p align="center">
+  <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
+</p>
 
 <h3 align="center" style="font-family: 'Futura', sans-serif; font-weight: 800; font-size: 1.8em;">
   🌐 Let's Connect
@@ -65,33 +70,9 @@
 <br>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="http://www.linkedin.com/in/justinnl" target="_blank">
-          <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="70" alt="LinkedIn Visual" />
-        </a>
-      </td>
-
-      <td width="30"></td>
-
-      <td align="center">
-        <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
-          <img src="https://custom-readme-visuals.vercel.app/public/personalwebsite.gif" width="150" height="70" alt="Personal Website Visual" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<!-- Added spacing below heading -->
-<br>
-
-<p align="center">
   <a href="http://www.linkedin.com/in/justinnl" target="_blank">
     <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="70" alt="LinkedIn Visual" />
-  </a>
-  <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
+  </a><a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
     <img src="https://custom-readme-visuals.vercel.app/public/personalwebsite.gif" width="150" height="70" alt="Personal Website Visual" />
   </a>
 </p>
