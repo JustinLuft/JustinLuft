@@ -69,12 +69,14 @@
 
 <br>
 
-<div align="center" style="font-size:0;">
-  <a href="http://www.linkedin.com/in/justinnl" target="_blank" style="display:block; margin-bottom:10px;">
+<div align="center">
+  <a href="http://www.linkedin.com/in/justinnl" target="_blank">
     <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="40" alt="LinkedIn Visual" />
   </a>
 
-  <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank" style="display:block;">
+  <br><br>
+
+  <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
     <img src="https://custom-readme-visuals.vercel.app/public/personalwebsite.gif" width="150" height="40" alt="Personal Website Visual" />
   </a>
 </div>
