@@ -58,13 +58,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
 </div>
 
-<p align="center">
-  <img src="https://custom-readme-visuals.vercel.app/api/line1" width="900" height="10" alt="Divider Line" />
-</p>
-
 <h3 align="center" style="font-family: 'Futura', sans-serif; font-weight: 800; font-size: 1.8em;">
   🌐 Let's Connect
 </h3>
+
+<br>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="http://www.linkedin.com/in/justinnl" target="_blank">
+          <img src="https://custom-readme-visuals.vercel.app/api/linkedin" width="120" height="70" alt="LinkedIn Visual" />
+        </a>
+      </td>
+
+      <td width="30"></td>
+
+      <td align="center">
+        <a href="https://portfolio-web-mu-ten.vercel.app/" target="_blank">
+          <img src="https://custom-readme-visuals.vercel.app/public/personalwebsite.gif" width="150" height="70" alt="Personal Website Visual" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <!-- Added spacing below heading -->
 <br>
